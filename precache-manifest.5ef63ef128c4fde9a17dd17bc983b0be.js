@@ -9,10 +9,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "dfca7d721db4e7247a84c0f9160e4412",
+    "url": "/CalcEventNumOfTimes/favicon.png"
+  },
+  {
+    "revision": "dfca7d721db4e7247a84c0f9160e4412",
     "url": "/CalcEventNumOfTimes/img/itemicon_108203.dfca7d72.png"
   },
   {
-    "revision": "112518f7c70bdbccbab016ba8cd5ad4d",
+    "revision": "e285ed22e29521072ee94092b244a7f5",
     "url": "/CalcEventNumOfTimes/index.html"
   },
   {
@@ -26,9 +30,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1e023f9790456db2b85ac1ac38c1b91f",
     "url": "/CalcEventNumOfTimes/manifest.json"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/CalcEventNumOfTimes/robots.txt"
   }
 ]);
