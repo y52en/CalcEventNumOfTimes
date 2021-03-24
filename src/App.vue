@@ -36,7 +36,7 @@
               {{ expPerStm1("event") }}<br />
               
               <br />
-              <strong>チケットクエ <br /></strong>
+              <strong>メインクエ <br /></strong>
               アルシーヴ：<br>
               {{ expPerStm1("archive") }} <br />
               スタ半フェンネル： <br>

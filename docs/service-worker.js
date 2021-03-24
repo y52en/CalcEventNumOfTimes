@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.276f9386e9d84e3aaff096169c474411.js"
+  "precache-manifest.ba96f24832de0fddd5758d43895d8f6a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kirafan_event"});
